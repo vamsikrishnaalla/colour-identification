@@ -13,6 +13,11 @@ please run the below command for compilation
 please run the below command for running the application after placing the image in input folder with image.png name
 - mvn spring-boot:run
 
+## sample input
+![image](https://github.com/vamsikrishnaalla/colour-identification/assets/117825261/8cb0cc23-f27c-48b9-b935-84ca8f34f883)
+
+## output
+![Uploading image.png…]()
 
 ### Reference Documentation
 For further reference, please consider the following sections:
