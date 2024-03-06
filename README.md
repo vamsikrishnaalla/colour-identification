@@ -14,10 +14,10 @@ please run the below command for running the application after placing the image
 - mvn spring-boot:run
 
 ## sample input
-![image](https://github.com/vamsikrishnaalla/colour-identification/assets/117825261/8cb0cc23-f27c-48b9-b935-84ca8f34f883)
+Sample input file present in input/image.png
 
 ## output
-![Uploading image.png…]()
+Output file present in output/output.png
 
 ### Reference Documentation
 For further reference, please consider the following sections:
